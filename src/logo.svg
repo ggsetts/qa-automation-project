@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="mugBody" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1A365D"/>
+      <stop offset="50%" stop-color="#2A4A7F"/>
+      <stop offset="100%" stop-color="#1A365D"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="200" r="190" fill="none"/>
+  <rect x="85" y="120" width="195" height="195" rx="15" ry="15" fill="url(#mugBody)"/>
+  <rect x="80" y="115" width="205" height="18" rx="9" ry="9" fill="#B0B8C4" stroke="#8A939F" stroke-width="2"/>
+  <path d="M280,170 C320,170 340,195 340,230 C340,265 320,290 280,290" fill="none" stroke="#1A365D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M280,185 C310,185 325,200 325,230 C325,260 310,275 280,275" fill="none" stroke="#2A4A7F" stroke-width="8" stroke-linecap="round"/>
+  <rect x="90" y="310" width="185" height="10" rx="5" ry="5" fill="#B0B8C4"/>
+  <text x="182" y="210" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="bold" fill="#FFFFFF" letter-spacing="5">ACME</text>
+  <text x="182" y="264" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="bold" fill="#B0B8C4" letter-spacing="10">DIST</text>
+  <path d="M140,105 C140,90 150,85 150,70" stroke="#B0B8C4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <path d="M180,100 C180,82 190,77 190,60" stroke="#B0B8C4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <path d="M220,105 C220,90 230,85 230,70" stroke="#B0B8C4" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.4"/>
+</svg>
